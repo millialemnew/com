@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div.lay {
+  display: inline;
+  height: 100vh;
+  width: 45%;
+  background: aqua;
+  font-family: sans-serif;
+  position: relative;
+  background-color: aqua;
+  text-align: right;
+}
+body.body {
+  color: blueviolet;
+}
+nav {
+  width: 40%;
+  margin: auto;
+  padding: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: aqua;
+}
+img.logo {
+  width: 50px;
+  cursor: pointer;
+}
+
+ul.ul {
+  list-style: none;
+  margin: 15px 20px;
+  color: aqua;
+}
+
+ul.ul {
+  background-color: #f8492a;
+  align-items: right;
+}
+
+.wana {
+  margin-left: 8%;
+  margin-top: 8%;
+}
+.wana a {
+  background: #f8492a;
+  display: inline-block;
+  color: #fff;
+  padding: 10px 18px;
+  margin: 30px 0;
+  border-radius: 5px;
+  transition: 10s;
+}
+.wana a:hpver {
+  background: #f8492a;
+}
+p.m {
+  font-style: italic;
+  font-size: 20px;
+}
+h1.bold {
+  font-style: italic;
+  color: #f8492a;
+  text-align: center;
+}
+div.container {
+  color: #d17f70;
+  text-align: left;
+}
+div.arsu {
+  text-transform: 50px;
+}
+
+nav.nav {
+  align-items: right;
+}
+
+img.group {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  cursor: pointer;
+  border-radius: 75%;
+}
+p.m {
+  text-indent: 40%;
+}
+img.Arsu {
+  border-radius: 75%;
+}
+img.Ermish {
+  border-radius: 75%;
+}
+img.Sol {
+  border-radius: 75%;
+}
+img.Milla {
+  border-radius: 75%;
+}
+img.logo {
+  align-items: right;
+}
+section.sec {
+  align-content: left;
+}
+#wrapper {
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
